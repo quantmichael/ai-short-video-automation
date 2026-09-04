@@ -1,6 +1,6 @@
 # AI Short Video Automation System
 
-A public showcase for a private AI-assisted short-form video production system.
+A public showcase of a production-grade AI-assisted system for automating short-form video creation and publishing workflows.
 
 This project demonstrates my ability to build automation pipelines that combine AI, media processing, data tracking, and publishing preparation for short-form content production.
 
