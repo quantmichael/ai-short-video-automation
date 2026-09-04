@@ -65,7 +65,7 @@ Public channels:
 - [Instagram](https://www.instagram.com/factunder60/)
 - [TikTok](https://www.tiktok.com/@factunder.60)
 
-This repository showcases the engineering work behind the private production system. It does not expose the source code, prompts, credentials, internal workflow, or platform automation logic.
+The public channels above demonstrate the real-world output produced through this system.
 
 ## Project Status
 
